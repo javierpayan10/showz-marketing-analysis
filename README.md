@@ -49,15 +49,5 @@ Se recomienda implementar un sistema de seguimiento y análisis continuo para ad
 
 ---
 
-## 🚀 Próximos pasos
-
-- Incluir un dashboard interactivo (Tableau o Power BI)
-- Comparar CAC vs LTV por fuente y dispositivo
-- Automatizar alertas sobre cambios críticos en ROMI
-
----
-
-## 📁 Estructura del proyecto
-
 
 
